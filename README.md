@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack  
 - **Programming:** Python   
 - **Data Science:** Pandas, NumPy, Matplotlib, Power BI, SQL  
-- **Frontend:** HTML, CSS, React, TailwindCSS  
+- **Frontend:** HTML, CSS, Javascript, React 
 - **UI/UX Tools:** Figma, Adobe XD, Canva  
 
 ## 📌 Projects  
