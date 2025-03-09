@@ -14,6 +14,7 @@
 
 ## 📌 Projects  
 🔹 [Carbon Footprint Tracker](#) - Gamified app rewarding eco-friendly actions 
+
 🔹 [Movie Recommendation System](#) - Content-based movie recommendation system using Scikit-learn
 ## Currently working on
 🔹 [Judicial Semantic Search](#) - AI-based legal document search engine  
