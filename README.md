@@ -16,8 +16,9 @@
 🔹 [Carbon Footprint Tracker](#) - Gamified app rewarding eco-friendly actions 
 
 🔹 [Movie Recommendation System](#) - Content-based movie recommendation system using Scikit-learn
-## Currently working on
-🔹 [Judicial Semantic Search](#) - AI-based legal document search engine  
+
+🔹 [Customer Churn Analysis](#) - Performed Exploratory Data Analysis (EDA) for a telecom customer dataset.
+  
 
 ## 📈 Learning Journey  
 - 📍 Currently diving deep into **Data Science & Machine Learning**  
