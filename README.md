@@ -13,11 +13,11 @@
 - **UI/UX Tools:** Figma, Adobe XD, Canva  
 
 ## 📌 Projects  
-🔹 [Carbon Footprint Tracker](#) - Gamified app rewarding eco-friendly actions 
+🔹 [CO2-EDA-Project](#https://github.com/ruchiraaa04/CO2-EDA-Project.git) - Exploratory data analysis (EDA) on the CO2 emissions dataset from "Our World in Data."
 
-🔹 [Movie Recommendation System](#) - Content-based movie recommendation system using Scikit-learn
+🔹 [Movie Recommendation System](#https://github.com/ruchiraaa04/Movie-Recommendation-System.git) - Content-based movie recommendation system using Scikit-learn
 
-🔹 [Customer Churn Analysis](#) - Performed Exploratory Data Analysis (EDA) for a telecom customer dataset.
+🔹 [Customer Churn Analysis](#https://github.com/ruchiraaa04/Customer-Churn-Analysis.git) - Performed Exploratory Data Analysis (EDA) for a telecom customer dataset.
   
 
 ## 📈 Learning Journey  
