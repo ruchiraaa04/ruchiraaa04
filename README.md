@@ -59,6 +59,11 @@ Performed in-depth EDA on telecom customer data to identify churn patterns and d
 
 **Tech:** Python, Pandas, NumPy, Data Visualization, Power BI
 
+### [FocusFlow – Personal Productivity Automation Portal](https://github.com/ruchiraaa04/Personal-Productivity-Automation-Portal)
+Developed an interactive productivity dashboard enabling users to track tasks, monitor progress, and automate daily routines. Integrated a Pomodoro-based timer, task insights, and lightweight automation tools to enhance workflow efficiency and focus.
+
+**Tech:** Python, Streamlit, JSON Storage, UI/UX Design, Automation Tools
+
 ---
 
 ## 📈 Professional Development
